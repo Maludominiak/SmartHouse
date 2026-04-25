@@ -1,7 +1,4 @@
 # SmartHouse
-Aqui está um exemplo de **README.md** para o projeto baseado no código que você compartilhou. Ele explica a estrutura, conceitos de POO aplicados e como executar:
-
----
 
 # SmartHome 🏠💡📺🔊
 
