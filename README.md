@@ -86,7 +86,4 @@ Ele pode ser usado como **material de estudo** para entender:
 - Herança múltipla e protegida
 - Polimorfismo em métodos virtuais
 - Associação entre classes
-
----
-
-Quer que eu também prepare um **diagrama UML** para visualizar melhor as relações entre as classes (CasaInteligente, Comodo, SmartTV)?
+  
