@@ -1,5 +1,3 @@
-# SmartHouse
-
 # SmartHome 🏠💡📺🔊
 
 Projeto em C++ que simula uma **Casa Inteligente** utilizando conceitos de **Programação Orientada a Objetos (POO)**.  
